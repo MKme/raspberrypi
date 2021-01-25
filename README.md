@@ -1,7 +1,7 @@
 # raspi
 
 <p align="center">
-<b>Roomba Eric Raspberry Pi Randomness</b><br>
+<b>Erics Raspberry Pi Randomness</b><br>
 Open Source<br><br>
 <br>🐦 <a href="https://twitter.com/mkmeorg">Twitter</a>
 | 📺 <a href="https://www.youtube.com/mkmeorg">YouTube</a>
@@ -12,9 +12,7 @@ Chat: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>!
 </p>
 
 # Raspberry Pi Stuffz
-My Boards, programming and ref materials
-
-Buy a kit here: http://store.mkme.org/?product=diy-roomba-virtual-wall-kit
+My Boards, programming and ref materials and all my random notes and files to make life easier
 
 
 # Handy Linux Commands
