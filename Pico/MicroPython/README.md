@@ -4,9 +4,9 @@
 
 -   Click the url link on the pi file system that pops open on your PC
 
--   Go to the MicroPython tab and downlod the file
+-   Go to the MicroPython tab and downlod the UF2 file
 
--   Copy the ile to the Pi file system
+-   Copy the file to the Pi file system
 
 -   It will reboot and work with Thonny!
 
