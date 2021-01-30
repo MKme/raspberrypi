@@ -1,4 +1,18 @@
-# Handy Links
+# How to get started:
+
+-   Press the and hold the boot button while plugging in the Pico
+
+-   Click the url link on the pi file system that pops open on your PC
+
+-   Go to the MicroPython tab and downlod the file
+
+-   Copy the ile to the Pi file system
+
+-   It will reboot and work with Thonny!
+
+
+
+## Handy Links
 
 Getting started:  https://hackspace.raspberrypi.org/books/micropython-pico
 
