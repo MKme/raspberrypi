@@ -1,6 +1,8 @@
-import machine
-import utime
-led_onboard = machine.Pin(25, machine.Pin.OUT)
+from machine import Pin
+from time import sleep
+
+led = Pin(2, Pin.OUT)
+
 while True:
-    led_onboard.toggle()
-    utime.sleep(3)
+  led.value(not led.value())
+  sleep(0.5)
