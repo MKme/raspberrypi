@@ -19,3 +19,8 @@ My Boards, programming and ref materials and all my random notes and files to ma
 ### Pinout
 
 <img src="https://github.com/MKme/raspberrypi/blob/main/Pico/Reference%20Materials/pinout.PNG" width="700"/>
+
+
+### kicad footprint
+
+https://github.com/HeadBoffin/RP_Silicon_KiCad
