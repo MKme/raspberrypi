@@ -14,9 +14,9 @@ Chat: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>!
 # Raspberry Pi Pico
 My Boards, programming and ref materials and all my random notes and files to make life easier
 
-SSD1306 I2C OLED https://www.youtube.com/watch?v=vVS4gFI5gjM&ab_channel=anErik
+- SSD1306 I2C OLED https://www.youtube.com/watch?v=vVS4gFI5gjM&ab_channel=anErik  Also includes handy info on how to use Thonny to create a lib file on the Pico
 
-^ Also includes handy info on how to use Thonny to create a lib file on the Pico
+- SSD1306 again https://www.youtube.com/watch?v=Csmu8svTN4s&ab_channel=GaryExplains
 
 - Install Circuitpython https://www.youtube.com/watch?v=WqjT4cdATxo&ab_channel=anErik
 
