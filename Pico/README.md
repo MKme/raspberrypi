@@ -14,6 +14,10 @@ Chat: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>!
 # Raspberry Pi Pico
 My Boards, programming and ref materials and all my random notes and files to make life easier
 
+SSD1306 I2C OLED https://www.youtube.com/watch?v=vVS4gFI5gjM&ab_channel=anErik
+
+^ Also includes handy info on how to use Thonny to create a lib file on the Pico
+
 - Install Circuitpython https://www.youtube.com/watch?v=WqjT4cdATxo&ab_channel=anErik
 
 <img src="https://github.com/MKme/raspberrypi/blob/main/Pico/Reference%20Materials/board.jpg" width="700"/>
