@@ -20,6 +20,8 @@ SSD1306 I2C OLED https://www.youtube.com/watch?v=vVS4gFI5gjM&ab_channel=anErik
 
 - Install Circuitpython https://www.youtube.com/watch?v=WqjT4cdATxo&ab_channel=anErik
 
+-  C Coding https://www.youtube.com/watch?v=il4bgA76E1M&ab_channel=BenHeckHacks
+
 <img src="https://github.com/MKme/raspberrypi/blob/main/Pico/Reference%20Materials/board.jpg" width="700"/>
 
 ### Pinout
