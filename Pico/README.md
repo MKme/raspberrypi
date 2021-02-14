@@ -35,6 +35,8 @@ Handy site: https://www.mfitzp.com/article/oled-displays-i2c-micropython/
 
 -  C Coding https://www.youtube.com/watch?v=il4bgA76E1M&ab_channel=BenHeckHacks
 
+- IO https://www.youtube.com/watch?v=Zy64kZEM_bg&ab_channel=DroneBotWorkshop
+
 <img src="https://github.com/MKme/raspberrypi/blob/main/Pico/Reference%20Materials/board.jpg" width="700"/>
 
 ### Pinout
