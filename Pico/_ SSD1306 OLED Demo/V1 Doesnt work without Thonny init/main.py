@@ -2,7 +2,7 @@ import ssd1306
 import machine
 import time
 import uos
-import machine
+
 
 print(uos.uname())
 print("Freq: "  + str(machine.freq()) + " Hz")
