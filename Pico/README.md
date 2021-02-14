@@ -18,6 +18,52 @@ My Boards, programming and ref materials and all my random notes and files to ma
 
 - SSD1306 again https://www.youtube.com/watch?v=Csmu8svTN4s&ab_channel=GaryExplains
 
+
+#  128X32 SSD1306 OLED
+
+https://github.com/raspberrypi/micropython/blob/pico/drivers/display/ssd1306.py  
+ 
+-  Save this as ssd1306.py   to the pico
+-  Use this as main.py inverting text 
+
+import ssd1306
+import machine
+import time
+import uos
+import machine
+
+print(uos.uname())
+print("Freq: "  + str(machine.freq()) + " Hz")
+print("128x64 SSD1306 I2C OLED on Raspberry Pi Pico")
+
+WIDTH = 128
+HEIGHT = 32
+
+i2c = machine.I2C(0)
+
+print("Available i2c devices: "+ str(i2c.scan()))
+oled = ssd1306.SSD1306_I2C(WIDTH, HEIGHT, i2c)
+oled.fill(0)
+
+oled.text("MicroPython", 0, 0)
+oled.text("OLED(ssd1306)", 0, 10)
+oled.text("www.mkme.org", 0, 20)
+oled.show()
+
+while True:
+    time.sleep(1)
+    oled.invert(1)
+    time.sleep(1)
+    oled.invert(0)
+
+
+ 
+ 
+
+
+
+
+
 - Install Circuitpython https://www.youtube.com/watch?v=WqjT4cdATxo&ab_channel=anErik
 
 -  C Coding https://www.youtube.com/watch?v=il4bgA76E1M&ab_channel=BenHeckHacks
