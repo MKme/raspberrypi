@@ -30,6 +30,8 @@ Handy site: https://www.mfitzp.com/article/oled-displays-i2c-micropython/
 
 # Other Handy Stuff
 
+- Handy info on REPL and sending soft reboot to check main.py https://github.com/thonny/thonny/wiki/MicroPython#managing-other-files
+
 - Install Circuitpython https://www.youtube.com/watch?v=WqjT4cdATxo&ab_channel=anErik
 
 -  C Coding https://www.youtube.com/watch?v=il4bgA76E1M&ab_channel=BenHeckHacks
