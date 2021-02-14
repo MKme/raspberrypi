@@ -1,4 +1,3 @@
-# raspi
 
 <p align="center">
 <b>Erics Raspberry Pi PICO<br>
