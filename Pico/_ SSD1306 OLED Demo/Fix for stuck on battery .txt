@@ -1,0 +1,1 @@
+Add time.sleep(1.5) to beginning before OLED init and it will start 100%
