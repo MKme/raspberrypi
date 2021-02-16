@@ -27,6 +27,10 @@ https://github.com/raspberrypi/micropython/blob/pico/drivers/display/ssd1306.py
 
 Handy site: https://www.mfitzp.com/article/oled-displays-i2c-micropython/
 
+Pico invaders code https://github.com/printnplay/Pico-MicroPython/blob/main/picoinvaders.py
+
+Pico invaders ssd1306   https://www.youtube.com/watch?v=O5S1LC5TFiM&ab_channel=Print%27NPlay
+
 # Other Handy Stuff
 
 - Handy info on REPL and sending soft reboot to check main.py https://github.com/thonny/thonny/wiki/MicroPython#managing-other-files
