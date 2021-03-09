@@ -229,3 +229,7 @@ https://www.youtube.com/watch?v=x_yhJ_QBfaU
 Text 2 speech engine - install festival
 
 
+### Attribution
+
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+https://creativecommons.org/licenses/by-nc/4.0/
