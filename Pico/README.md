@@ -10,7 +10,12 @@ Support this project and become a patron on <a href="https://www.patreon.com/Eri
 Chat: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>!
 </p>
 
-# Raspberry Pi Pico
+# Raspberry Pi Pico Parts
+
+Buy a breakout board here: https://store.mkme.org/?product=raspberry-pi-pico-breakout-pcb-with-screw-terminals-v1
+
+# Handy Stuff 
+
 My Boards, programming and ref materials and all my random notes and files to make life easier
 
 - SSD1306 I2C OLED https://www.youtube.com/watch?v=vVS4gFI5gjM&ab_channel=anErik  Also includes handy info on how to use Thonny to create a lib file on the Pico
